@@ -1,4 +1,7 @@
-## Hi there 👋
+## Witaj na moim profilu GitHub! 👋
+
+Cześć! Jestem początkującym programistą Python z pasją do cyberbezpieczeństwa i sztucznej inteligencji. Ten profil GitHub służy jako moje portfolio, gdzie dzielę się projektami, nauką i rozwojem.
+
 
 <!--
 **kamil-iskra/kamil-iskra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
