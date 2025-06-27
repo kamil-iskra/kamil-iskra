@@ -1,6 +1,6 @@
 ## Witaj na moim profilu GitHub! 👋
 
-Cześć! Jestem początkującym programistą Python z pasją do cyberbezpieczeństwa i sztucznej inteligencji. Ten profil GitHub służy jako moje portfolio, gdzie dzielę się projektami, nauką i rozwojem.
+Cześć! Jestem doświadzonym specjalistą IT z pasją do cyberbezpieczeństwa i sztucznej inteligencji. Ten profil GitHub służy jako moje portfolio, gdzie dzielę się projektami, nauką i rozwojem.
 
 
 <!--
